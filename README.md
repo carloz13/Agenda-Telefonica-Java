@@ -10,7 +10,7 @@ Uma aplicação Java que tem o objetivo de criar uma agenda telefônica que arma
   <li>Data de nascimento</li>
 </ol>
 
-* Ao desenvolver foi seguido os conceitos da Programação Orientada a Objetos.
+* Ao desenvolver fkldsdklndsoi seguido os conceitos da Programação Orientada a Objetos.
 * A Classe AppAgendaAmigos possui o método main() com o seguinte menu:<br/>
 
 
